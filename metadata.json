@@ -1,0 +1,6 @@
+{
+  "name": "SkillSphere",
+  "description": "Youth Digital Skills & Career Learning Platform providing digital skill roadmaps, courses, government training programs, project learning, and AI career guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
